@@ -1,0 +1,411 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* header menu  */
+
+
+.navbar-light .navbar-nav .nav-link {
+	color: #004AAE !important;
+	font-size: 20px !important;
+	margin: 0 10px;
+    font-weight: 500;
+}
+
+
+
+.button {
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 20px;
+	background: #004AAE;
+	border-radius: 40px;
+	color: #fff;
+    margin-left: 10px;
+}
+.button:hover{
+    color: #fff;
+}
+
+/* header close */
+
+
+.header-bottom1{
+    background-image: url(https://i.ibb.co/bgVkkjg/Group-1000002389.png);
+    height: 100px;
+    width: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.header-botom {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	padding-top: 35px;
+}
+
+.botom-text-left{
+    width: 50%;
+}
+.botom-text-left h3{
+    color: #fff;
+    font-size: 26px;
+    font-weight: 300;
+}
+.botom-text-right{
+    text-align: right;
+    width: 50%;
+}
+.botom-text-right h5 {
+	font-size: 16px;
+	font-weight: 300;
+	color: rgba(255, 255, 255, 0.717);
+}
+
+.botom-text-right span{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+}
+
+
+/* extea css */
+
+.accound {
+    margin: 30px 0;
+}
+.title a i {
+    font-size: 14px;
+}
+.title a{
+    font-size: 19px;
+    font-weight: 500;
+    color: #667085;
+}
+.title a span{
+    color: #004aae !important;
+}
+
+/* Category menu */
+ol, ul {
+    padding-left: 0rem;
+}
+
+.category-item {
+    margin-right: 25px;
+}
+.category-item ul li{
+    list-style: none;
+    background-color: #f4faff;
+    line-height: 41px;
+    border-bottom: 1px solid #ededed;
+    padding: 8px 20px;
+}
+.category-item ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #667085;
+}
+.category-item ul li span{
+    color: #667085;
+}
+.category-item ul li span {
+    color: #667085;
+}
+span.second {
+    margin-left: 151px;
+}
+span.five {
+    margin-left: 160px;
+}
+span.four {
+    margin-left: 80px;
+}
+span.three {
+    margin-left: 126px;
+}
+span.first {
+    margin-left: 131px;
+}
+
+.category-item ul li:hover{
+    background-color: #fff;
+}
+
+
+
+
+/* order right */
+
+
+
+.order-btn{}
+.btn-one{
+    display: inline-block;
+    margin-right: 17px;
+}
+.btn-one button {
+	background: #004AAE;
+	color: #fff;
+	padding: 13px 29px;
+	border: 1px solid #004AAE;
+	border-radius: 10px;
+	font-size: 16px;
+}
+.btn-two button{
+    background: #004bae00 !important;
+	color: #707070;
+    border-radius: 10px;
+    border: 1px solid #707070;
+}
+
+/* order bottom */
+
+
+.order-bot {
+    margin-top: 50px;
+}
+.order-bot-img {
+}
+.order-bot-img img {
+}
+
+.order-bot-one {
+    display: flex;
+    align-items: center;
+    margin-left: -25px;
+}
+.order-bot-left {
+	margin-right: 10px;
+}
+.order-bot-left img {
+    background: #ffead5;
+    padding: 8px;
+    border-radius: 5px;
+}
+.order-bot-right {
+}
+.order-bot-right h5 {
+    font-size: 22px;
+    color: #3c3c3c;
+    font-weight: 600;
+}
+
+
+
+
+.margin-class {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.order-bot-one1 {
+}
+.order-bot-one1 img {
+}
+.order-bot-one1 span {
+    font-size: 16px;
+    font-weight: 400;
+    color: #acacac;
+    line-height: 30px;
+    margin-left: 8px;
+    margin-right: 15px;
+}
+.order-extra-img {
+    padding: 5px;
+    background: #e0f1ff;
+    border-radius: 5px;
+}
+
+
+
+
+.order-bot-btn-one {
+    margin-right: 25px;
+}
+.order-bot-btn-one button {
+    padding: 15px 115px;
+    background: #004aae;
+    color: #fff;
+    border-radius: 10px;
+    border: 1px solid #004aae;
+    font-size: 16px;
+    font-weight: 400;
+}
+.order-bot-btn-two {
+}
+.order-bot-btn-two button {
+    padding: 15px 45px;
+    border-radius: 10px;
+    background: #fff0;
+    color: #707070;
+    border: 1px solid #707070;
+    font-size: 16px;
+    font-size: 400;
+}
+
+
+.margin-two{
+    margin-top: 45px;
+}
+
+.order-extra-one{}
+.order-extra-two{}
+.order-extra-three{}
+
+
+
+
+
+/* footer start */
+
+.futer-top {
+    background: #00366F;
+    padding: 35px 0px;
+}
+.futer-top h2{
+    color: #fff;
+    display: inline-block;
+
+}
+button.creat {
+    background: #00366F;
+    border: 1px solid #C1D6E0;
+    padding: 15px 50px;
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color: #C1D6E0;
+}
+
+footer {
+    background: #19202E;
+    color: #fff;
+}
+
+
+footer ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+
+.footer-widget h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.footer-widget p {
+    margin-top: 20px;
+}
+.footer-widget ul li{
+    padding: 6px 0px;
+    line-height: 9px;
+}
+.footer-widget ul li a {
+    color: #cccccc;
+    transition: .5s;
+    font-size: 14px;
+}
+
+.widget-social ul {
+    display: flex;
+}
+.widget-social ul li{
+    padding: 10px 0;
+}
+
+.widget-social ul li span {
+    display: inline-block;
+    font-size: 18px;
+}
+
+.widget-social ul li a {
+    padding: 0px 12px;
+    font-size: 18px;
+}
+
+.footer-contact-item span {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.footer-contact-item a {
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+
+.futer-middle{
+    padding-top: 20px;
+}
+.widget-social ul li{
+    margin-top: 6px;
+    
+}
+.widget-social ul li a{
+    font-size: 14px;
+}
+
+.fb {
+    background: #00366F;
+    margin-right: 10px;
+  
+}
+.tw {
+    background: #4098FE;
+    margin-right: 10px;
+}
+.yt {
+    background: #ff0505;
+    margin-right: 10px;
+}
+.in {
+    background: #00366F;
+    margin-right: 10px;
+}
+.lorem {
+    padding-left: 40px;
+}
+.lorem p{
+    font-size: 16px;
+    color: rgb(163, 163, 163);
+}
+.footer-extra{}
+.footer-extra ul li{
+    padding-right:20px ;
+}
+.theme ul li{
+    display: inline-block;
+    margin: auto;
+    padding-left: 20px;
+}
+
+.footer-bottom p {
+    margin-bottom: 0px;
+    color: #606060;
+}
+
+.footer-bottom a {
+    display: inline-block;
+    color: #fff;
+
+}
+
+
+
+.copy-right p{
+    font-size: 16px;
+    color: #fff;
+}
+
+/* footer end */
+
+/* extra css */
